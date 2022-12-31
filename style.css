@@ -106,6 +106,8 @@ article.topics {
   font-size: 0.8rem;
   display: flex;
   justify-content: space-evenly;
+  margin-top: 0.1rem;
+
 }
 .topics__img {
   width: 5vw;
@@ -122,6 +124,19 @@ article.topics {
   text-align: center;
   margin-top: 1rem;
 }
+.topics__html:hover{
+  background-color: rgb(222, 148, 111);
+  transition-duration: 1s;
+}
+.topics__css:hover{
+  background-color: rgb(137, 202, 229);
+  transition-duration: 1s;
+}
+.topics__design:hover{
+  background-color: rgb(163, 162, 162);
+  transition-duration: 1s;
+}
+
 
 /* SECTION ABOUT US */
 
