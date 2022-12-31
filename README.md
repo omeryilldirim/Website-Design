@@ -5,12 +5,14 @@ Project aims to create a website page.
 
 ## Project Skeleton 
 
+```
 website-page-design (folder)
 |
 |----readme.md
 |----images
-|----index.html  
-|----style.css   
+|----index.html
+|----style.css
+``` 
 
 ## Expected Outcome
 
